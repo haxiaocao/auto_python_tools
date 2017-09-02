@@ -1,0 +1,15 @@
+
+
+reference site：https://martin-thoma.com/configuration-files-in-python/
+
+File Endings give the user and the system an indicator about the content of a file. Reasonable file endings for configuration files are
+
+*config.py for Python files
+*.yaml or *.yml if the configuration is done in YAML format
+*.json for configuration files written in JSON format
+*.cfg or *.conf to indicate that it is a configuration file
+*.ini for "initialization" are quite widespread (see Wiki)
+~/.[my_app_name]rc is a VERY common naming scheme for configuration files on Linux systems. RC is a reference to an old computer system and means "run common".
+That said, I think I prefer *.conf. I think it is a choice that users understand.
+
+But you might also consider that *.ini might get opened by standard in a text editor. For the other options, users might get asked which program they want to use.

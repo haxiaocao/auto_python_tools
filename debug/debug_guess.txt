@@ -1,0 +1,21 @@
+
+2017-08-20 23:17:21,497 - DEBUG - Random number is :1
+2017-08-20 23:17:26,569 - DEBUG - You guess again Result:heads
+2017-08-20 23:19:24,107 - DEBUG - your first guess is :tails
+2017-08-20 23:19:24,107 - DEBUG - Random number is :1
+2017-08-20 23:19:31,170 - DEBUG - your first guess is :tails
+2017-08-20 23:19:31,170 - DEBUG - Random number is :0
+2017-08-20 23:19:36,714 - DEBUG - Your Second guess:tails
+2017-08-20 23:21:18,753 - DEBUG - your first guess is :heads
+2017-08-20 23:21:18,755 - DEBUG - Random number is :1
+2017-08-20 23:21:21,721 - DEBUG - Your Second guess:tas
+2017-08-20 23:21:28,890 - DEBUG - your first guess is :tails
+2017-08-20 23:21:28,890 - DEBUG - Random number is :0
+2017-08-20 23:21:32,690 - DEBUG - Your Second guess:heads
+2017-08-20 23:23:28,811 - DEBUG - your first guess is :tails
+2017-08-20 23:23:28,811 - DEBUG - Random number is :0
+2017-08-20 23:23:32,849 - DEBUG - Your Second guess:heads
+2017-08-20 23:23:32,851 - INFO - The program get the last real log in the records.
+2017-08-20 23:24:07,194 - DEBUG - your first guess is :heads
+2017-08-20 23:24:07,194 - DEBUG - Random number is :0
+2017-08-20 23:24:07,194 - INFO - The program get the last real log in the records.

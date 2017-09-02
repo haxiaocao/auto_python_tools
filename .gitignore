@@ -7,9 +7,8 @@ __pycache__/
 *.so
 
 # customer ignor folders
-abc/
-example.xlsx
-ig_ad.txt
+automate_online-materials/
+*.zip
 
 # Distribution / packaging
 .Python

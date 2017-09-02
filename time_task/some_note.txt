@@ -1,0 +1,4 @@
+
+1 sms API referenece site: https://automatetheboringstuff.com/chapter16
+It should use the gmail address and your password.
+I haven't try it yet. 

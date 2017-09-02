@@ -1,0 +1,1 @@
+{"other": {"preprocessing_queue": ["preprocessing.scale_and_center", "preprocessing.dot_reduction", "preprocessing.connect_lines"], "use_anonymous": true}, "mysql": {"passwd": "my secret password", "host": "localhost", "db": "write-math", "user": "root"}}
